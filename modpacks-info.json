@@ -1,0 +1,57 @@
+{
+    "versions": ["1.7.10", "1.12.2"],
+    "1.7.10": {
+        "darkshire": ["Darkshire", 145, "1.7.10"], 
+        "dragonglory": ["DragonGlory", 149, "1.7.10"], 
+        "nevermine": ["Nevermine", 156, "1.7.10"], 
+        "skyfactory": ["SkyFactory", 106, "1.7.10"], 
+        "spacex": ["SpaceX", 117, "1.7.10"], 
+        "tesla": ["Tesla", 77, "1.7.10"]
+    },
+    "1.12.2": {
+        "claustrophobia": ["Клаустрофобия", 178, "1.12.2"],
+        "cybermagic": ["Кибермагия", 181, "1.12.2"], 
+        "edison": ["Edison", 87, "1.12.2"], 
+        "nightmare": ["Nightmare", 90, "1.12.2"], 
+        "pixelmon": ["Pixelmon", 441, "1.12.2"], 
+        "terrafirmacraft": ["Примитив", 116, "1.12.2"]
+    },
+    "all": [
+        ["claustrophobia", "Клаустрофобия", 178, "1.12.2"], 
+        ["cybermagic", "Кибермагия", 181, "1.12.2"], 
+        ["darkshire", "Darkshire", 145, "1.7.10"], 
+        ["dragonglory", "DragonGlory", 149, "1.7.10"], 
+        ["edison", "Edison", 87, "1.12.2"], 
+        ["nevermine", "Nevermine", 156, "1.7.10"], 
+        ["nightmare", "Nightmare", 90, "1.12.2"], 
+        ["pixelmon", "Pixelmon", 441, "1.12.2"], 
+        ["skyfactory", "SkyFactory", 106, "1.7.10"], 
+        ["spacex", "SpaceX", 117, "1.7.10"], 
+        ["terrafirmacraft", "Примитив", 116, "1.12.2"], 
+        ["tesla", "Tesla", 77, "1.7.10"]
+    ],
+    "all_names": [
+        "tesla", "skyfactory", "spacex", 
+        "dragonglory", "darkshire", "nevermine",
+        "edison", "pixelmon", "claustrophobia", 
+        "cybermagic", "nightmare", "terrafirmacraft"
+    ],
+    "by_name": {
+        "tesla": ["tesla", "Tesla", 77, "1.7.10"],
+        "skyfactory": ["skyfactory", "SkyFactory", 106, "1.7.10"],
+        "spacex": ["spacex", "SpaceX", 117, "1.7.10"],
+        "dragonglory": ["dragonglory", "DragonGlory", 149, "1.7.10"],
+        "darkshire": ["darkshire", "Darkshire", 145, "1.7.10"],
+        "nevermine": ["nevermine", "Nevermine", 156, "1.7.10"],
+        "edison": ["edison", "Edison", 87, "1.12.2"],
+        "pixelmon": ["pixelmon", "Pixelmon", 441, "1.12.2"],
+        "claustrophobia": ["claustrophobia", "Клаустрофобия", 178, "1.12.2"],
+        "cybermagic": ["cybermagic", "Кибермагия", 181, "1.12.2"],
+        "nightmare": ["nightmare", "Nightmare", 90, "1.12.2"],
+        "terrafirmacraft": ["terrafirmacraft", "Примитив", 116, "1.12.2"]
+    },
+    "tweak_classes": {
+        "1.7.10": "cpw.mods",
+        "1.12.2": "net.minecraftforge"
+    }
+}
